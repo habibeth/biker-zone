@@ -1,0 +1,91 @@
+header{
+    background-color: #264653;
+}
+.btn-bg{
+    color: #fff;
+    background-color: #E76F51;
+    border: 1px solid #E76F51;
+    font-weight: 400;
+}
+.btn-bg:hover {
+    color: #E76F51;
+    background-color: #fff;
+    border:  1px solid #E76F51;
+    font-weight: 400;
+}
+.btn-news{    
+    color: #E76F51;
+    background-color: #fff;
+    border: 1px solid #E76F51;
+    font-weight: 400;
+}
+.btn-news:hover {    
+    color: #fff;
+    background-color: #E76F51;
+    border: 1px solid #E76F51;
+    font-weight: 400;
+}
+.slider-area{
+    margin-top: 70px;
+    padding-bottom: 45px;
+    margin-bottom: 60px;
+}
+.slider-bg {
+    background-color: transparent !important;
+}
+.feature-area{
+    margin-bottom: 100px;
+}
+.feature-info {
+    margin-bottom: 100px;
+}
+.img-white{
+    filter: grayscale(100%);
+}
+.news-title{
+    margin-bottom: 60px;
+}
+.latest-news {
+    margin-bottom: 160px;
+}
+.title span{
+    color: #E76F51;
+}
+.clients-heading {
+    margin-bottom: 150px;
+}
+.clients-title{
+    margin-bottom: 50px;
+}
+.star-icon{
+    margin-bottom: 15px;
+}
+.filled{
+    color: #E77C40;
+    font-size: 12px;
+}
+.faq {
+    margin-bottom: 100px;
+}
+.faq-img img{
+    width: 80%;
+    text-align: center;
+}
+.faq-body{
+    margin-top: 120px;
+}
+.navbar {
+    background: none;
+}
+footer {
+    background-color: #0B0D17;
+}
+
+.footer-menu ul li{
+    list-style-type: none;    
+}
+.footer-menu ul li a{
+    text-decoration: none; 
+    color: #fff;
+    margin-right: 20px;  
+}
